@@ -1,2 +1,2 @@
-# Algorithm-learning
-LeetCode solution &amp; Coding interviews solution &amp; Summary about learning note
+# 数据结构与算法学习笔记
+主要记录LeetCode题解、牛客上剑指offer题解以及相关知识点梳理总结
